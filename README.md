@@ -42,3 +42,9 @@ About: `exploit.example.js` is a vulnerability model for the `test` command.
 ## Licence
 
 MIT License - Copyright (c) 2022 Yarflam
+
+## Documentations
+
+-   [isthe.com](http://www.isthe.com/chongo/tech/comp/ansi_escapes.html)
+-   [proteansec.com](https://www.proteansec.com/linux/blast-past-executing-code-terminal-emulators-via-escape-sequences/)
+-   [eso.org](https://www.eso.org/~ndelmott/ascii.html) / [charset.org](https://www.charset.org/utf-8)
