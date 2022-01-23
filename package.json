@@ -1,0 +1,28 @@
+{
+    "name": "invchars-check",
+    "version": "0.1.0",
+    "description": "Scan the folders to detect invisible chars",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yarflam/invchars-check.git"
+    },
+    "keywords": [
+        "scan",
+        "invisible",
+        "chars"
+    ],
+    "author": "Yarflam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Yarflam/invchars-check/issues"
+    },
+    "homepage": "https://github.com/Yarflam/invchars-check#readme",
+    "bin": {
+        "invchars-check": "./index.js"
+    }
+}
